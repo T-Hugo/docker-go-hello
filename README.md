@@ -1,7 +1,6 @@
 # HTTP server in Go, printing the current hostname for load balancer testing
 
-![Docker Build Status](https://img.shields.io/docker/build/hugobin/go-hello?logo=docker)
-![MicroBadger Size](https://img.shields.io/microbadger/image-size/hugobin/go-hello?logo=docker)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/hugobin/go-hello?logo=docker)
 ![GitHub](https://img.shields.io/github/license/t-hugo/docker-go-hello)
 
 >HTTP server printing the hostname for the load balancer testing, about ~1.67 MB in size!
